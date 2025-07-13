@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Loop\bin\Debug\net9.0\Loop.exe
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Loop\bin\Debug\net9.0\Loop.deps.json
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Loop\bin\Debug\net9.0\Loop.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Loop\bin\Debug\net9.0\Loop.dll
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Loop\bin\Debug\net9.0\Loop.pdb
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Loop\obj\Debug\net9.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Loop\obj\Debug\net9.0\Loop.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Loop\obj\Debug\net9.0\Loop.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Loop\obj\Debug\net9.0\Loop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Loop\obj\Debug\net9.0\Loop.sourcelink.json
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Loop\obj\Debug\net9.0\Loop.dll
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Loop\obj\Debug\net9.0\refint\Loop.dll
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Loop\obj\Debug\net9.0\Loop.pdb
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Loop\obj\Debug\net9.0\Loop.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Loop\obj\Debug\net9.0\ref\Loop.dll

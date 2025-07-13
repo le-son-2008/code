@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Learn\Args\obj\Debug\net9.0\Args.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Learn\Args\obj\Debug\net9.0\Args.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Learn\Args\obj\Debug\net9.0\Args.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Learn\Args\obj\Debug\net9.0\Args.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Learn\Args\obj\Debug\net9.0\Args.sourcelink.json
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Learn\Args\bin\Debug\net9.0\Args.exe
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Learn\Args\bin\Debug\net9.0\Args.deps.json
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Learn\Args\bin\Debug\net9.0\Args.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Learn\Args\bin\Debug\net9.0\Args.dll
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Learn\Args\bin\Debug\net9.0\Args.pdb
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Learn\Args\obj\Debug\net9.0\Args.dll
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Learn\Args\obj\Debug\net9.0\refint\Args.dll
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Learn\Args\obj\Debug\net9.0\Args.pdb
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Learn\Args\obj\Debug\net9.0\Args.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\Code\Csharp\Learn\Args\obj\Debug\net9.0\ref\Args.dll
