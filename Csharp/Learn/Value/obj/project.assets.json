@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Code\\Csharp\\Learn\\Value\\Value.csproj",
+      "projectUniqueName": "P:\\code\\Csharp\\Learn\\Value\\Value.csproj",
       "projectName": "Value",
-      "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Code\\Csharp\\Learn\\Value\\Value.csproj",
+      "projectPath": "P:\\code\\Csharp\\Learn\\Value\\Value.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Code\\Csharp\\Learn\\Value\\obj\\",
+      "outputPath": "P:\\code\\Csharp\\Learn\\Value\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

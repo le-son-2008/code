@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Code\\Csharp\\Learn\\Calculate\\Calculate.csproj",
+      "projectUniqueName": "P:\\code\\Csharp\\Learn\\Calculate\\Calculate.csproj",
       "projectName": "Calculate",
-      "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Code\\Csharp\\Learn\\Calculate\\Calculate.csproj",
+      "projectPath": "P:\\code\\Csharp\\Learn\\Calculate\\Calculate.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Code\\Csharp\\Learn\\Calculate\\obj\\",
+      "outputPath": "P:\\code\\Csharp\\Learn\\Calculate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
