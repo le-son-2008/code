@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\code\\Csharp\\Learn\\Calculate\\Calculate.csproj": {}
+    "C:\\Users\\Administrator\\OneDrive\\Documents\\code\\Csharp\\Learn\\Calculate\\Calculate.csproj": {}
   },
   "projects": {
-    "P:\\code\\Csharp\\Learn\\Calculate\\Calculate.csproj": {
+    "C:\\Users\\Administrator\\OneDrive\\Documents\\code\\Csharp\\Learn\\Calculate\\Calculate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\code\\Csharp\\Learn\\Calculate\\Calculate.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Documents\\code\\Csharp\\Learn\\Calculate\\Calculate.csproj",
         "projectName": "Calculate",
-        "projectPath": "P:\\code\\Csharp\\Learn\\Calculate\\Calculate.csproj",
+        "projectPath": "C:\\Users\\Administrator\\OneDrive\\Documents\\code\\Csharp\\Learn\\Calculate\\Calculate.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "P:\\code\\Csharp\\Learn\\Calculate\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\OneDrive\\Documents\\code\\Csharp\\Learn\\Calculate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

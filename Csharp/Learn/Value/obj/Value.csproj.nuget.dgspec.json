@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\code\\Csharp\\Learn\\Value\\Value.csproj": {}
+    "C:\\Users\\Administrator\\OneDrive\\Documents\\code\\Csharp\\Learn\\Value\\Value.csproj": {}
   },
   "projects": {
-    "P:\\code\\Csharp\\Learn\\Value\\Value.csproj": {
+    "C:\\Users\\Administrator\\OneDrive\\Documents\\code\\Csharp\\Learn\\Value\\Value.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\code\\Csharp\\Learn\\Value\\Value.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Documents\\code\\Csharp\\Learn\\Value\\Value.csproj",
         "projectName": "Value",
-        "projectPath": "P:\\code\\Csharp\\Learn\\Value\\Value.csproj",
+        "projectPath": "C:\\Users\\Administrator\\OneDrive\\Documents\\code\\Csharp\\Learn\\Value\\Value.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "P:\\code\\Csharp\\Learn\\Value\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\OneDrive\\Documents\\code\\Csharp\\Learn\\Value\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
