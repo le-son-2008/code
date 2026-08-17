@@ -4,7 +4,6 @@
     "python.testing.unittestArgs": [
         "-v",
         "-s",
-        "./C#",
         "-p",
         "*test.py"
     ],
