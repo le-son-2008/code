@@ -4,7 +4,7 @@ import sqlite3
 
 from numpy import add
 
-conn = sqlite3.connect("C:\\Users\\Administrator\\OneDrive\\Desktop\\Code\\Python\\Projects\\Tự làm\\MĐPT\\phan_tan.db")
+conn = sqlite3.connect("Python\\Projects\\Tự làm\\MĐPT\\phan_tan.db")
 cursor = conn.cursor()
 
 cursor.execute('''
