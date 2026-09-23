@@ -3,8 +3,6 @@
 using namespace std;
 
 int main() {
-    SetConsoleOutputCP(65001);
-    SetConsoleCP(65001);
-    cout<<"Xin chào các bạn";
-    return 0;
+    int a=2;
+    cout<<(a=3)*a;
 }
